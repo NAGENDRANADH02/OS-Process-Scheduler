@@ -1,5 +1,6 @@
-# OS Process Scheduler Visualizer
 
+# OS Process Scheduler Visualizer
+Live Link: https://os-process-scheduler-frontend.onrender.com/
 A local full-stack teaching tool for visualizing CPU scheduling. The Django REST API calculates schedules and stores saved runs; the Vite/React interface animates a Gantt chart, shows metrics, compares algorithms, and replays history.
 
 ## Stack
